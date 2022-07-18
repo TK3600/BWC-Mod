@@ -1,0 +1,10 @@
+Talk to me on discord link below if you have any questions/suggestions.
+
+Installation:
+
+1. Extract the .7z file. (download 7zip app if you cant extract it)
+2. Run "unit card fixer.exe" to change the card pictures to modded one.
+3. Run WargameModManager.exe, select Unofficial Patch.
+4. Once you are done select vanilla to restore to original. Your original deck will be safe via making a copy of your original profile. Run the "unit card fixer.exe" again and choose "uninstall" to revert cosmetics.
+
+Note: playing on modded version on multiplayer will cause a desync.
